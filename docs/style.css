@@ -2,5 +2,6 @@
   float: left;
   width: 33%;
   height: 100%;
-   overflow: scroll;
+  overflow: scroll;
+  border: 2px solid black
 }
