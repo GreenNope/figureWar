@@ -9,5 +9,7 @@
 #figureBoxLeft {
   width: 95%;
   margin: auto;
+  height: 10%;
+  border: 2px solid black
   
 }
