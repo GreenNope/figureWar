@@ -5,3 +5,9 @@
   overflow: scroll;
   border: 2px solid black;
 }
+
+#figureBoxLeft {
+  width: 95%;
+  margin: auto;
+  
+}
