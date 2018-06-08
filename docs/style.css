@@ -1,4 +1,4 @@
-.leftFigureList {
+div.leftFigureList {
   float: left;
   width: 15%;
   height: 800px;
@@ -6,7 +6,7 @@
   border: 2px solid black;
 }
 
-.figureStatsLeft {
+div.figureStatsLeft {
   width: 95%;
   margin: auto;
   height: 10%;
